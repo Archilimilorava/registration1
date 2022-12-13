@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569589076698",
+    "project_id": "registration2-8b628",
+    "storage_bucket": "registration2-8b628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569589076698:android:3d403f3063e3ed3df40be3",
+        "android_client_info": {
+          "package_name": "com.example.archili1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569589076698-2bodk2esat3u97al57utk3944jiocnhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW7HThRW8-7zeXFb9o5tnDqATRVXkhkk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569589076698-2bodk2esat3u97al57utk3944jiocnhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
